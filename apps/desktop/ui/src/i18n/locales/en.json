@@ -1021,7 +1021,7 @@
       "soft_usd": "Warn at (USD)"
     },
     "hint": "A warning only notifies you at 80% and 100%. A stop ends the run before the model is called. Models with an unknown price count usage only. Schedules and channel messages follow the same limits.",
-    "invalid": "Enter a positive amount (money from 0.01, usage as whole numbers) or leave the field empty.",
+    "invalid": "Enter a positive amount (money from 0.01, usage as whole numbers) with digits only, no thousands separator (write 10000, not 10.000), or leave the field empty.",
     "order": "The warning level must not be above the stop level.",
     "period": {
       "daily": "Per day",

@@ -1021,7 +1021,7 @@
       "soft_usd": "Uyarı eşiği (USD)"
     },
     "hint": "Uyarı yalnızca %80 ve %100'de bildirim verir. Durdurma, model çağrılmadan koşuyu bitirir. Fiyatı bilinmeyen modellerde yalnızca kullanım sayılır. Zamanlamalar ve kanal mesajları aynı limitlere uyar.",
-    "invalid": "Pozitif bir miktar gir (para 0,01'den başlar, kullanım tam sayı olmalı) ya da alanı boş bırak.",
+    "invalid": "Pozitif bir miktar gir (para 0,01'den başlar, kullanım tam sayı olmalı). Yalnızca rakam kullan, binlik ayracı koyma (10.000 değil 10000 yaz) ya da alanı boş bırak.",
     "order": "Uyarı eşiği durdurma eşiğinden yüksek olamaz.",
     "period": {
       "daily": "Günlük",
